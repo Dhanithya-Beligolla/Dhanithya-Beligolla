@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **dbeligolla@gmail.com**
 - Google Cloud [Skillboost](https://www.cloudskillsboost.google/public_profiles/58baf1a8-af98-49ed-bd63-7ceeccb1ba40).
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/dhanithyabeligolla-4389/) 
 
 - ⚡ Fun fact **I think I'm funny**
 
