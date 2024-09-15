@@ -5,7 +5,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Dhanithya-Beligolla&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanithya-Beligolla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22085580bgdnbeligolla" alt="it22085580bgdnbeligolla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhanithya-Beligolla" alt="Dhanithya-Beligolla" /></a> </p>
 
 - 📫 How to reach me **dbeligolla@gmail.com**
 - Google Cloud [Skillboost](https://www.cloudskillsboost.google/public_profiles/58baf1a8-af98-49ed-bd63-7ceeccb1ba40).
