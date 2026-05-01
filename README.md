@@ -1,37 +1,191 @@
-
 <h1 align="center">Hi 👋, I'm Dhanithya Beligolla</h1>
-<h3 align="center">A passionate full Stack developer from Srilanka.</h3>
 
+<h3 align="center">
+  Full-Stack Developer | Software Engineering Undergraduate | AI/ML Enthusiast
+</h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=Dhanithya-Beligolla&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanithya-Beligolla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhanithya-Beligolla" alt="Dhanithya-Beligolla" /></a> </p>
-
-- 📫 How to reach me **dbeligolla@gmail.com**
-- Google Cloud [Skillboost](https://www.cloudskillsboost.google/public_profiles/58baf1a8-af98-49ed-bd63-7ceeccb1ba40).
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/dhanithyabeligolla-4389/) 
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhanithya-b-69486b139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanithya beligolla" height="30" width="40" /></a>
-<a href="https://fb.com/dhanithya nikethana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhanithya nikethana" height="30" width="40" /></a>
-<a href="https://instagram.com/dhanithya nikethana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanithya nikethana" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhanithya-Beligolla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanithya-Beligolla&show_icons=true&locale=en&layout=compact" alt="Dhanithya-Beligolla" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanithya-Beligolla&show_icons=true&locale=en" alt="Dhanithya-Beligolla" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanithya-Beligolla&" alt="Dhanithya-Beligolla" /></p>
+---
 
+## 👨‍💻 About Me
 
+I am a results-driven Software Engineering undergraduate from Sri Lanka with nearly two years of experience in banking sector R&D. I specialize in full-stack development, system design, database design, testing, and deployment.
 
+Currently, I work as a **Trainee Software Engineer - R&D IT at DFCC Bank PLC**, where I contribute to enterprise-level banking solutions, workflow automation systems, CRM platforms, chatbot solutions, and secure system integrations.
 
-![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
+I am passionate about building secure, scalable, and practical software solutions, with a strong interest in **AI/ML, cloud technologies, enterprise systems, automation, and modern software architecture**.
 
+---
 
+## 🚀 Current Focus
+
+- Full-stack web application development
+- Enterprise workflow automation
+- Secure API and backend development
+- Oracle database design and integration
+- AI/ML-based intelligent systems
+- Cloud, DevOps, and microservices architecture
+- Microsoft Power Platform solutions
+
+---
+
+## 🏢 Professional Experience
+
+### Trainee Software Engineer - R&D IT, DFCC Bank PLC  
+**June 2025 - Present**
+
+- Working on enterprise banking workflow solutions using **Node.js, Express.js, React, and Oracle DB**
+- Contributing to database schema design, backend development, frontend development, and deployment cycles
+- Involved in credit workflow automation, CRM systems, complaint management, and banking-related integrations
+- Working with integrations such as **CRIB, DRP, document verification, and liveness verification**
+
+### Internship Software Engineer - R&D IT, DFCC Bank PLC  
+**May 2024 - June 2025**
+
+- Contributed to chatbot solutions for HR, Digital Banking, and Compliance departments
+- Worked with **Google Vertex AI Workbench** to build intelligent assistants using internal guidelines and reference documents
+- Contributed to call centre automation and customer information popup solutions
+- Supported internal application development and automation initiatives
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin,dart,c,cpp,cs,php" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,dotnet" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+</p>
+
+### Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,postman,firebase,figma" />
+</p>
+
+### Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift" />
+</p>
+
+### Microsoft Power Platform
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataverse-088142?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Education
+
+- **BSc (Hons) in Information Technology**  
+  Sri Lanka Institute of Information Technology, Malabe  
+  2022 - 2026
+
+- **Diploma in Information Technology**  
+  ESOFT Metro Campus  
+  2022 - 2023
+
+- **Diploma in English**  
+  ESOFT Metro Campus  
+  2022 - 2023
+
+---
+
+## 🏅 Certifications
+
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- MySQL 8.0 Database Administrator
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- Career Essentials in GitHub Professional Certificate
+- Google Cloud Data Analytics Certificate
+- Postman API Fundamentals Student Expert
+
+---
+
+## 🌐 Learning Profiles
+
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/58baf1a8-af98-49ed-bd63-7ceeccb1ba40)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/dhanithyabeligolla-4389/)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:dbeligolla@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhanithya-b-69486b139/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Dhanithya-Beligolla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanithya-Beligolla&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanithya-Beligolla&show_icons=true&locale=en&layout=compact" alt="Dhanithya-Beligolla" /></p>
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanithya-Beligolla&show_icons=true&locale=en" alt="Dhanithya-Beligolla" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Dhanithya-Beligolla&amp;theme=tokyonight&amp;hide_border=true" alt="Dhanithya Beligolla GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanithya-Beligolla/Dhanithya-Beligolla/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanithya-Beligolla/Dhanithya-Beligolla/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Dhanithya-Beligolla/Dhanithya-Beligolla/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<h3 align="center">
+  “Building practical, secure, and scalable software solutions for real-world problems.”
+</h3>
