@@ -14,7 +14,7 @@
 
 I am a results-driven Software Engineering undergraduate from Sri Lanka with nearly two years of experience in banking sector R&D. I specialize in full-stack development, system design, database design, testing, and deployment.
 
-Currently, I work as a **Trainee Software Engineer - R&D IT at DFCC Bank PLC**, where I contribute to enterprise-level banking solutions, workflow automation systems, CRM platforms, chatbot solutions, and secure system integrations.
+Currently, I work as a **Associate Software Engineer - SYNAPSYS LTD**, where I contribute to enterprise-level banking solutions, workflow automation systems, CRM platforms, chatbot solutions, and secure system integrations.
 
 I am passionate about building secure, scalable, and practical software solutions, with a strong interest in **AI/ML, cloud technologies, enterprise systems, automation, and modern software architecture**.
 
@@ -34,8 +34,11 @@ I am passionate about building secure, scalable, and practical software solution
 
 ## 🏢 Professional Experience
 
+### Associate Software Engineer - SYNAPSYS LTD  
+**June 2026 - Present**
+
 ### Trainee Software Engineer - R&D IT, DFCC Bank PLC  
-**June 2025 - Present**
+**June 2025 - June 2026**
 
 - Working on enterprise banking workflow solutions using **Node.js, Express.js, React, and Oracle DB**
 - Contributing to database schema design, backend development, frontend development, and deployment cycles
