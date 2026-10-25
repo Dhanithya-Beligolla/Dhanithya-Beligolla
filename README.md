@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven Software Engineering undergraduate from Sri Lanka with nearly two years of experience in banking sector R&D. I specialize in full-stack development, system design, database design, testing, and deployment.
+I am a results-driven Software Engineer from Sri Lanka with nearly two years of experience in banking sector R&D. I specialize in full-stack development, system design, database design, testing, and deployment.
 
 Currently, I work as a **Associate Software Engineer - SYNAPSYS LTD**, where I contribute to enterprise-level banking solutions, workflow automation systems, CRM platforms, chatbot solutions, and secure system integrations.
 
